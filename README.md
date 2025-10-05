@@ -21,18 +21,18 @@
 ## How It Works (Step-by-Step / Logic Structure)
 
 
-- *1) Input array size and elements.*
+ *1) Input array size and elements.*
 
-- *2) Input key to search.*
+ *2) Input key to search.*
 
-- *3) Initialize count = 0.*
+ *3) Initialize count = 0.*
 
-- *4) Loop through the array:*
+ *4) Loop through the array:*
 
   - *If a[i] == key, increase count by 1.*
 
 
- - *5) After loop:*
+   *5) After loop:*
 
  - *If count == 0 → key not found.*
 
